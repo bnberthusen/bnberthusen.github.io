@@ -23,7 +23,7 @@ repository               : "bnberthusen/bnberthusen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/f732e810-46f5-48a1-8754-e2361012e18f.png"
+  avatar           : "f732e810-46f5-48a1-8754-e2361012e18f.png"
   name             : "Bryce Berthusen"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
