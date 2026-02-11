@@ -9,6 +9,6 @@ redirect_from:
 
 Hello world
 
-PXL_20241106_211024011.jpg
+"PXL_20241106_211024011.jpg"
 
 
