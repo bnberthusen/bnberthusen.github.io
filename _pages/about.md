@@ -9,6 +9,6 @@ redirect_from:
 
 Hello world
 
-"PXL_20241106_211024011.jpg"
+![Woodworking](/images/PXL_20241106_211024011.jpg)
 
 
