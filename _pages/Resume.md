@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Mechanical Engineering, Iowa State University, 2025
-* Minor is Music Technology, and Design Studies.
+* Minors in Music Technology, and Design Studies
 
 Work experience
 ======
