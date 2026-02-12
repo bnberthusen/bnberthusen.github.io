@@ -10,6 +10,6 @@ redirect_from:
 Hello, my name is Bryce. Welcome to my portfolio!
 
 
-(/images/FB_IMG_1738952839036.jpg)
+!(/images/FB_IMG_1738952839036.jpg)
 
 
