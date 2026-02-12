@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello world
+Hello, my name is Bryce. Welcome to my portfolio!
 
-![Woodworking](/images/PXL_20241106_211024011.jpg)
+
+(/images/FB_IMG_1738952839036.jpg)
 
 
