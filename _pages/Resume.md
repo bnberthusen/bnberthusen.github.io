@@ -11,23 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* B.S. in Mechanical Engineering, Iowa State University, 2025
+* Minor is Music Technology, and Design Studies.
+* 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2025: Mechanical Engineer Intern
+  * Quad Plus / Cooper & Associates
+  * Designed piping layouts, sized equipment for a new manufacturing facility, contributing to a complete process and instrumentation diagram set used for contractor bidding. 
+  * Led development of an automated hatch system for storage silos 
+  * Created concept designs, sourced components, and coordinated with suppliers to obtain specifications, drawings, and pricing. 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2020 - Winter 2025: Laboratory Technician
+  * Iowa State University
+  * Supervise daily lab operations 
+  * Train 50+ students per semester on machining and fabrication equipment Aug 2020 to Dec 2025 
+  * Perform maintenance, troubleshootings, and operations on CNC mills, saws, and other fabrication tools, reducing downtime and improving shop safety 
 
-* Summer 2015: Research Assistant
+* Fall 2020 - Present: Professional Musician
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
